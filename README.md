@@ -21,4 +21,4 @@ Real-time updating clock with hours, minutes, and seconds
 
 3.JavaScript (ES6)
 
-[![Watch the video](https://img.youtube.com/vi/7dzFbP2AgFo/maxresdefault.jpg)](https://www.youtube.com/watch?v=7dzFbP2AgFo)
+[![Watch the video]( https://shubh637.github.io/Digital-Clock/)]( https://shubh637.github.io/Digital-Clock/)
