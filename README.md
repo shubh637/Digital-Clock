@@ -1,5 +1,6 @@
 # Digital-Clock
 ## A clean, modern digital clock built with HTML, CSS, and JavaScript featuring a glassmorphism design.
+With grate animation, background and sound effect.
 
 ## Features
 Real-time updating clock with hours, minutes, and seconds
